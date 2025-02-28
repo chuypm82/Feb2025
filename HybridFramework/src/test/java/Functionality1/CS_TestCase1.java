@@ -13,7 +13,7 @@ public class CS_TestCase1 extends BaseClass {
 	@Test
 	public void CS_TestCase1_Test() throws InterruptedException {
 
-		// ** Open Browser ** --> Update 2 PC2
+		// ** Open Browser ** --> Update 3 PC1
 		Keyword.ADD_COMMENT_TO_LOG("Open Browser");
 		Open_Browser.Open_Browser_Test();
 
